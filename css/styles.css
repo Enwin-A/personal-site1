@@ -48,6 +48,11 @@ h3{
   .mountain {width: 100vw}
 }
 
+@media only screen and (max-device-width: 480px) 
+{
+  .btn{
+      margin-top:7rem;
+}
 .mountain{
     object-fit:contain;
 }
@@ -79,8 +84,7 @@ h3{
     /*width: 150px; height: 150px;*/
     width: 25%;
     float: left;
-    margin-top: 20px;
-    margin-right: 40px;
+    margin-right: 2rem;
 }
 
 .img-hobby{
@@ -148,7 +152,7 @@ p{
 
 .bottom-cloud{
     position:absolute;
-    left:16.26rem;
+    left:1rem;
     bottom:21rem;
 }
 .footer-link{
