@@ -6,7 +6,7 @@ body{
     font-family: 'Merriweather', serif;
     scroll-behavior: smooth;
     overflow-x: hidden;
-    width: 100%;
+    
 }
 h1{
     margin: 3.125rem auto 0 auto;
