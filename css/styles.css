@@ -1,14 +1,16 @@
 
+
 body{
-    margin: 0;
+    margin: 0;/
     text-align: center;
     font-family: 'Merriweather', serif;
     scroll-behavior: smooth;
     overflow-x: hidden;
+    width: 100%;
 }
 h1{
     margin: 3.125rem auto 0 auto;
-    
+   
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
     color: #66BFBF;
@@ -59,13 +61,16 @@ h3{
     margin:auto;
     
 }
+.profilehr{
+    margin: 2.5rem auto 4.375rem auto;
+}
 
 p{
     line-height: 2;
 }
 
 .middle-container{
-    margin-top: 70px;
+    margin-top: 4.375rem;
     font-weight: 500;
     color: #40514E;
 }
@@ -127,7 +132,7 @@ hr{
      border-width: 6px;
      width: 5%;
      color:#D3D3D3;
-     margin: 40px auto 70px auto;
+     margin: 4.375rem auto 4.375rem auto;
  }
  .btn {
     background: #11cdd4;
