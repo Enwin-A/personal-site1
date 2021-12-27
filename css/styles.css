@@ -66,8 +66,8 @@ h3{
     }
   .bottom-cloud{
     position:absolute;
-    right:16.26rem;
-    bottom: 20rem;
+    left:1rem;
+    bottom:21rem;
   } 
 }
 
@@ -152,8 +152,8 @@ p{
 
 .bottom-cloud{
     position:absolute;
-    left:1rem;
-    bottom:21rem;
+    left:16.26rem;
+    bottom:18.75rem;
 }
 .footer-link{
      color: #11999E;
