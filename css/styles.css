@@ -103,14 +103,14 @@ p{
 
 .top-cloud{
     position:absolute;
-    right:260px;
-    top:50PX;
+    right:16.26rem;
+    top:3.125rem;
 }
 
 .bottom-cloud{
     position:absolute;
-    left:260px;
-    bottom:300px;
+    left:16.26rem;
+    bottom:18.75rem;
 }
 .footer-link{
      color: #11999E;
