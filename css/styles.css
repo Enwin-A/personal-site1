@@ -36,6 +36,7 @@ h3{
     background-color: #E4F9F5;
     position:relative;
     padding-top: 6.25rem;
+    width: 100vw;
 }
 .skill-row{
     width:50%;
@@ -142,6 +143,7 @@ a:hover{
      width: 5%;
      color:#D3D3D3;
      margin: 4.375rem auto 4.375rem auto;
+    
  }
  .btn {
     background: #11cdd4;
@@ -158,6 +160,8 @@ a:hover{
     font-size: 20px;
     padding: 0.625rem 1.25rem 0.625rem 1.25rem;
     text-decoration: none;
+    position: relative;
+    top: 0.5rem;
   }
   
   .btn:hover {
