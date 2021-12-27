@@ -43,7 +43,7 @@ h3{
     width:100%;
 }
 .mountain{
-    width:100vw;
+    width:100%;
 }
 .skill-row{
     width:50%;
@@ -127,7 +127,7 @@ p{
 .bottom-cloud{
     position:absolute;
     left:16.26rem;
-    bottom:18.75rem;
+    bottom:21rem;
 }
 .footer-link{
      color: #11999E;
@@ -165,7 +165,7 @@ a:hover{
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
-    padding: 0.625rem 1.25rem 0.625rem 1.25rem;
+    padding: 1.25rem 1.25rem 0.625rem 1.25rem;
     text-decoration: none;
     max-width: 33%;
   }
