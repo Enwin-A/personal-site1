@@ -52,19 +52,6 @@ h3{
     object-fit:contain;
 }
 
-@media only screen and (max-device-width: 480px) 
-{
-  .top-cloud{
-    position:absolute;
-    left:16.26rem;
-    top:3.125rem;
-    }
-  .bottom-cloud{
-    position:absolute;
-    right:16.26rem;
-    bottom:18.75rem;
-  } 
-}
 
 
 
